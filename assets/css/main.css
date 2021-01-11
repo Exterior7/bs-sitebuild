@@ -1,3 +1,10 @@
+.card-img1 {
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+};
+
 @font-face{
     font-family: 'catamaran';
     src: url('/asstets/fonts/catamaran/static/Catamaran-Medium.ttf');
@@ -17,10 +24,6 @@
 
 .main-first{
     background-image: url(/assets/img/bg-pattern.png), linear-gradient(90deg, rgb(202, 25, 37), rgb(106, 66, 128)); 
-    
-};
-
-.main-content{
     
 };
 
