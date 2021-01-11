@@ -1,0 +1,34 @@
+@font-face{
+    font-family: 'catamaran';
+    src: url('/asstets/fonts/catamaran/static/Catamaran-Medium.ttf');
+}
+
+@font-face{
+    font-family: 'mulish';
+    src: url('/asstets/fonts/muli/static/Mulish-Medium.ttf');
+}
+
+@font-face{
+    font-family: 'lato';
+    src: url('/asstets/fonts/lato/Lato-Regular.ttf');
+}
+
+
+
+.main-first{
+    background-image: url(/assets/img/bg-pattern.png), linear-gradient(90deg, rgb(202, 25, 37), rgb(106, 66, 128)); 
+    
+};
+
+.main-content{
+    
+};
+
+
+.main-second{
+    background-color: #e7c05d;
+};
+
+.main-four{
+    background-image: url(/assets/img/demo-screen-1.jpg)
+};
